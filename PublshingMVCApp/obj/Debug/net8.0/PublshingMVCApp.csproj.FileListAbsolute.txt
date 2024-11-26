@@ -28,3 +28,4 @@ C:\Users\Laptop World\RiderProjects\PublshingMVCApp\PublshingMVCApp\obj\Debug\ne
 C:\Users\Laptop World\RiderProjects\PublshingMVCApp\PublshingMVCApp\obj\Debug\net8.0\PublshingMVCApp.pdb
 C:\Users\Laptop World\RiderProjects\PublshingMVCApp\PublshingMVCApp\obj\Debug\net8.0\PublshingMVCApp.genruntimeconfig.cache
 C:\Users\Laptop World\RiderProjects\PublshingMVCApp\PublshingMVCApp\obj\Debug\net8.0\ref\PublshingMVCApp.dll
+C:\Users\Laptop World\RiderProjects\PublshingMVCApp\PublshingMVCApp\obj\Debug\net8.0\PublshingMVCApp.sourcelink.json

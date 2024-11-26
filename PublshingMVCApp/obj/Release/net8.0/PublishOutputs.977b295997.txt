@@ -1,0 +1,7 @@
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\PublshingMVCApp.exe
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\appsettings.Development.json
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\appsettings.json
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\PublshingMVCApp.dll
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\PublshingMVCApp.deps.json
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\PublshingMVCApp.runtimeconfig.json
+C:\Users\Laptop World\AppData\Local\Temp\rider-publish14522896953694628223\PublshingMVCApp.pdb
